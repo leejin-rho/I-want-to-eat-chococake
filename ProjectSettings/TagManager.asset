@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dead
+  - Obstacle
+  - Coin
+  - background
+  - fallingObject
+  - b_fallingObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - image
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3808442905
+    locked: 0
+  - name: Player
+    uniqueID: 3340791637
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2653320629
+    locked: 0
+  - name: Background
+    uniqueID: 2250991087
+    locked: 0
+  - name: Middleground
+    uniqueID: 2031575453
+    locked: 0
+  - name: Foreground
+    uniqueID: 3170441355
+    locked: 0
+  - name: Foreground2
+    uniqueID: 195435093
+    locked: 0
+  - name: Foreground3
+    uniqueID: 2994824779
+    locked: 0
+  - name: Foreground4
+    uniqueID: 1671982347
+    locked: 0

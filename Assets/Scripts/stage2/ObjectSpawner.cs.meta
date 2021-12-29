@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ddbed0f5d80f12c4aaed43c29dbe40a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - needlePrefab: {fileID: 6732615415585018367, guid: 922f055b25e3e29449cde518a668ccfa,
+      type: 3}
+  - b_needlePrefab: {instanceID: 0}
+  - threadPrefab: {instanceID: 0}
+  - b_threadPrefab: {instanceID: 0}
+  - fabricPrefab: {instanceID: 0}
+  - b_fabricPrefab: {instanceID: 0}
+  - bombPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
