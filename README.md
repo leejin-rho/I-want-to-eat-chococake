@@ -1,6 +1,5 @@
 # I_want_to_eat_chococake
->
-## HongGomz unity project
+> HongGomz unity project
 <br>
 
 # Display
@@ -11,6 +10,12 @@
 ![image](https://user-images.githubusercontent.com/51855129/158058212-6723f64b-facd-46b7-a5bb-4225306b58d8.png)
 <br>
 
-# Download
+# Tech stack
+unity
+
+# Duration
+2021/01 - 2021/03
+
+# Download on GooglePlay
 <br>
 https://play.google.com/store/apps/details?id=com.HongGomz.I_want_to_eat_choco_cake
