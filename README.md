@@ -1,7 +1,9 @@
 # I_want_to_eat_chococake
-> HongGomz unity project
+>
+## HongGomz unity project
 <br>
 
+# Display
 ![image](https://user-images.githubusercontent.com/51855129/158058195-84264cd3-5c52-445d-b913-2464e1d20706.png)
 ![image](https://user-images.githubusercontent.com/51855129/158058196-784a908b-f580-4755-8ad3-7b19e3be5496.png)
 ![image](https://user-images.githubusercontent.com/51855129/158058200-b1176216-7ffe-44c2-a30c-699a677dd545.png)
