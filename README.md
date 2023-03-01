@@ -2,11 +2,11 @@
 > HongGomz unity project
 <br>
 
-<img src="[메인화면]https://user-images.githubusercontent.com/52371699/222086966-87ebd177-40ce-4845-8763-282b18af72b7.png" width="200" height="400"/>
-<img src="[미니게임 3종](https://user-images.githubusercontent.com/52371699/222086960-6bb603d7-18d9-4475-bce4-9fcd484eff0b.png width="200" height="400"/>
-![stage1](https://user-images.githubusercontent.com/52371699/222086959-fcb84f92-43a2-46f2-af4b-b64bc8bd68de.jpg)
-![stage2](https://user-images.githubusercontent.com/52371699/222086955-d0f115d6-edfa-421d-9609-ec071e4bd826.jpg)
-![stage3](https://user-images.githubusercontent.com/52371699/222086947-819c98c7-a117-4bf1-872b-b5e473f5d22b.jpg)
+![메인화면](https://user-images.githubusercontent.com/52371699/222093841-65359b74-0b95-4233-b570-3316f748fc1d.png)
+![미니게임 3종](https://user-images.githubusercontent.com/52371699/222093854-a3f85ce5-c083-4057-9f59-40a37d022545.png)
+![stage1](https://user-images.githubusercontent.com/52371699/222093852-c5d4169d-cfbb-47c2-aa91-180e3f1a952d.jpg)
+![stage2](https://user-images.githubusercontent.com/52371699/222093851-da1b763b-05b2-4ad6-9e2e-e55ca87e04be.jpg)
+![stage3](https://user-images.githubusercontent.com/52371699/222093848-8acbf347-9a29-422e-b78f-7fe5bec853bb.jpg)
 
 #Download
 <br>
