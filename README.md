@@ -16,6 +16,6 @@ unity
 # Duration
 2021/01 - 2021/03
 
-# Download on GooglePlay
+# Downloads on GooglePlay
 <br>
 https://play.google.com/store/apps/details?id=com.HongGomz.I_want_to_eat_choco_cake
