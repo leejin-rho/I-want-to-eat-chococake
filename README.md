@@ -2,11 +2,12 @@
 > HongGomz unity project
 <br>
 
-![메인화면](https://user-images.githubusercontent.com/52371699/222093841-65359b74-0b95-4233-b570-3316f748fc1d.png)
-![미니게임 3종](https://user-images.githubusercontent.com/52371699/222093854-a3f85ce5-c083-4057-9f59-40a37d022545.png)
-![stage1](https://user-images.githubusercontent.com/52371699/222093852-c5d4169d-cfbb-47c2-aa91-180e3f1a952d.jpg)
-![stage2](https://user-images.githubusercontent.com/52371699/222093851-da1b763b-05b2-4ad6-9e2e-e55ca87e04be.jpg)
-![stage3](https://user-images.githubusercontent.com/52371699/222093848-8acbf347-9a29-422e-b78f-7fe5bec853bb.jpg)
+![image](https://user-images.githubusercontent.com/51855129/158058195-84264cd3-5c52-445d-b913-2464e1d20706.png)
+![image](https://user-images.githubusercontent.com/51855129/158058196-784a908b-f580-4755-8ad3-7b19e3be5496.png)
+![image](https://user-images.githubusercontent.com/51855129/158058200-b1176216-7ffe-44c2-a30c-699a677dd545.png)
+![image](https://user-images.githubusercontent.com/51855129/158058205-c0199462-0729-40b4-aeb6-e83607ff9d90.png)
+![image](https://user-images.githubusercontent.com/51855129/158058212-6723f64b-facd-46b7-a5bb-4225306b58d8.png)
+<br>
 
 # Download
 <br>
