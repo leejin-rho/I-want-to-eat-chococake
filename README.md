@@ -19,6 +19,6 @@ HongGomz
 # Duration
 2021/01 - 2021/03
 
-# Downloads on GooglePlay
+# Downloads on Google Play
 <br>
 https://play.google.com/store/apps/details?id=com.HongGomz.I_want_to_eat_choco_cake
