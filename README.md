@@ -1,5 +1,5 @@
 # I_want_to_eat_chococake
-> HongGomz unity project
+HongGomz unity project
 <br>
 
 # Display
