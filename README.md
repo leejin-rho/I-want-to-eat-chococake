@@ -11,7 +11,7 @@
 <br>
 
 # Tech stack
-unity
+unity, c#
 
 # Duration
 2021/01 - 2021/03
