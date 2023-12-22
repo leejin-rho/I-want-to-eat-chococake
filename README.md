@@ -10,8 +10,8 @@ HongGomz unity project
 ![image](https://user-images.githubusercontent.com/51855129/158058212-6723f64b-facd-46b7-a5bb-4225306b58d8.png)
 <br>
 
-# Tech stack
-unity, c#
+# Tech stack!
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 # Design
 HongGomz
